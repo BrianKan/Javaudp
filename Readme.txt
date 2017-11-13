@@ -1,4 +1,5 @@
 Coded Brian Kan CS4740
+Tested and Bugfixed Christian Soltero
 -----------------------------------------------
 Language: Java
 
