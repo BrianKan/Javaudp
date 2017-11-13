@@ -1,1 +1,0 @@
-start cmd /c "javac Server.java Client.java"
